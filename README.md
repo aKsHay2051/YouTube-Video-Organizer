@@ -4,6 +4,8 @@
 
 Vidset is a distraction-free tool designed to help you curate video collections, track your progress, and escape "tutorial hell."
 
+<a href="https://www.producthunt.com/products/youtube-video-organizer-3?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-youtube-video-organizer-3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1056051&theme=light&t=1767077333898" alt="YouTube Video Organizer - Save YouTube videos with purpose, not chaos. | Product Hunt" style={{ width: '250px', height: '54px' }} width="250" height="54" /></a>
+
 ![Vidset Preview](https://your-preview-image-link.com/preview.png)
 
 ## Features
