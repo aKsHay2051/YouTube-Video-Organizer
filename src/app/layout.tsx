@@ -32,7 +32,7 @@ export default function RootLayout({
               <div className="w-8 h-5 bg-red-600 rounded-lg flex items-center justify-center group-hover:bg-red-700 transition-colors">
                 <div className="w-0 h-0 border-t-[3px] border-t-transparent border-l-[6px] border-l-white border-b-[3px] border-b-transparent ml-0.5"></div>
               </div>
-              <span className="font-bold text-lg tracking-tight">Organizer</span>
+              <span className="font-bold text-lg tracking-tight">Vidset</span>
             </a>
           </div>
           <div className="flex items-center gap-6">

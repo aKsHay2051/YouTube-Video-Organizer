@@ -51,7 +51,7 @@ export default function SettingsPage() {
                         <div className="w-6 h-4 bg-zinc-800 dark:bg-zinc-200 rounded flex items-center justify-center">
                             <div className="w-0 h-0 border-t-[2px] border-t-transparent border-l-[4px] border-l-white dark:border-l-black border-b-[2px] border-b-transparent ml-0.5"></div>
                         </div>
-                        <span className="font-bold tracking-tight text-zinc-900 dark:text-zinc-100">Organizer</span>
+                        <span className="font-bold tracking-tight text-zinc-900 dark:text-zinc-100">Vidset</span>
                     </div>
                     <p className="text-xs text-zinc-400">
                         Version 1.0.0 • Local Storage Edition

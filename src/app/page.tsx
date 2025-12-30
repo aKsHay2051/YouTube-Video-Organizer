@@ -151,7 +151,7 @@ export default function Home() {
             <div className="w-6 h-4 bg-red-600 rounded flex items-center justify-center">
               <div className="w-0 h-0 border-t-[2px] border-t-transparent border-l-[4px] border-l-white border-b-[2px] border-b-transparent ml-0.5"></div>
             </div>
-            <span className="font-bold tracking-tight">Organizer</span>
+            <span className="font-bold tracking-tight">Vidset</span>
           </div>
 
           <div className="text-sm text-zinc-500 flex gap-6">
@@ -161,7 +161,7 @@ export default function Home() {
           </div>
 
           <div className="text-sm text-zinc-400">
-            © {new Date().getFullYear()} Video Organizer. All rights reserved.
+            © {new Date().getFullYear()} Vidset Organizer. All rights reserved.
           </div>
         </div>
       </footer>
