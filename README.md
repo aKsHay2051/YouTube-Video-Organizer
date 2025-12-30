@@ -1,6 +1,10 @@
-# YouTube Video Organizer
+# Vidset
 
-A distraction-free tool to curate your YouTube learning journey. Organize videos into sets, track your progress, and escape "tutorial hell."
+**Organize your YouTube learning journey with intent.**
+
+Vidset is a distraction-free tool designed to help you curate video collections, track your progress, and escape "tutorial hell."
+
+![Vidset Preview](https://your-preview-image-link.com/preview.png)
 
 ## Features
 
@@ -9,6 +13,20 @@ A distraction-free tool to curate your YouTube learning journey. Organize videos
 - **Progress Tracking**: innovative progress bars for each set.
 - **Privacy-First**: All data is stored locally in your browser (`localStorage`).
 - **YouTube-Inspired UI**: Familiar, premium aesthetics with Dark Mode support.
+
+## Open Source
+
+Vidset is proudly open source! We believe in building tools that help developers learn better.
+
+### Contributing
+
+Contributions are welcome! Whether it's reporting bugs, suggesting features, or submitting a pull request, we'd love to have you involved.
+
+1.  Fork the repository.
+2.  Create a new branch: `git checkout -b feature/your-feature-name`.
+3.  Commit your changes: `git commit -m 'Add some feature'`.
+4.  Push to the branch: `git push origin feature/your-feature-name`.
+5.  Submit a pull request.
 
 ## Tech Stack
 
@@ -21,8 +39,8 @@ A distraction-free tool to curate your YouTube learning journey. Organize videos
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/youtube-video-organizer.git
-    cd youtube-video-organizer
+    git clone https://github.com/yourusername/vidset.git
+    cd vidset
     ```
 
 2.  **Install dependencies**:
@@ -49,13 +67,6 @@ A distraction-free tool to curate your YouTube learning journey. Organize videos
 
 5.  Open [http://localhost:3000](http://localhost:3000) with your browser.
 
-## Project Structure
-
-- `src/app/` - App Router pages (Sets, Video adding, Settings).
-- `src/components/` - Reusable UI components.
-- `src/lib/storage.ts` - LocalStorage logic for CRUD operations.
-- `src/lib/firebase.ts` - Firebase initialization.
-
 ## License
 
-MIT
+MIT © [Your Name]
