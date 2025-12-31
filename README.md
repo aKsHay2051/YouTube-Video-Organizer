@@ -1,13 +1,16 @@
-# Vidset
 
 **Organize your YouTube learning journey with intent.**
 
 Vidset is a distraction-free tool designed to help you curate video collections, track your progress, and escape "tutorial hell."
 
-<a href="https://www.producthunt.com/products/youtube-video-organizer-3?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-youtube-video-organizer-3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1056051&theme=light&t=1767077333898" alt="YouTube Video Organizer - Save YouTube videos with purpose, not chaos. | Product Hunt" style={{ width: '250px', height: '54px' }} width="250" height="54" /></a>
 
-![Vidset Preview](https://your-preview-image-link.com/preview.png)
-
+<img width="1903" height="936" alt="Screenshot 2025-12-30 115503" src="https://github.com/user-attachments/assets/01a1a9ea-64e9-422a-92b4-e946137df075" />
+<img width="1900" height="937" alt="Screenshot 2025-12-30 115456" src="https://github.com/user-attachments/assets/32b1e454-6adc-41d5-adc7-a5a0317f3d5c" />
+<img width="1903" height="930" alt="Screenshot 2025-12-30 115448" src="https://github.com/user-attachments/assets/6f84e7dc-b9af-4f49-a25c-f08d0072ee6d" />
+<video controls>
+  <source src="https://app.supademo.com/demo/cmjs7kkac7q823zz2gat5gitn?utm_source=link" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ## Features
 
 - **Organize with Intent**: Group videos into "Sets" based on topic or goal.
