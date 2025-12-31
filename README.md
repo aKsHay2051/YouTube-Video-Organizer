@@ -75,4 +75,4 @@ Contributions are welcome! Whether it's reporting bugs, suggesting features, or 
 
 ## License
 
-MIT © [Your Name]
+MIT © DevLuz
