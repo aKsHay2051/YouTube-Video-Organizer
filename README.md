@@ -11,6 +11,7 @@ Vidset is a distraction-free tool designed to help you curate video collections,
   <source src="https://app.supademo.com/demo/cmjs7kkac7q823zz2gat5gitn?utm_source=link" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 ## Features
 
 - **Organize with Intent**: Group videos into "Sets" based on topic or goal.
